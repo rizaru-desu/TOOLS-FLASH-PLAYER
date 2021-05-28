@@ -1,0 +1,9 @@
+D:\KERJAAN\C#\FIXFLASH\ToolsFLash\ToolsFLash\bin\x64\Release\ToolsFLash.exe.config
+D:\KERJAAN\C#\FIXFLASH\ToolsFLash\ToolsFLash\bin\x64\Release\ToolsFLash.exe
+D:\KERJAAN\C#\FIXFLASH\ToolsFLash\ToolsFLash\bin\x64\Release\ToolsFLash.pdb
+D:\KERJAAN\C#\FIXFLASH\ToolsFLash\ToolsFLash\obj\x64\Release\ToolsFLash.Form1.resources
+D:\KERJAAN\C#\FIXFLASH\ToolsFLash\ToolsFLash\obj\x64\Release\ToolsFLash.Properties.Resources.resources
+D:\KERJAAN\C#\FIXFLASH\ToolsFLash\ToolsFLash\obj\x64\Release\ToolsFLash.csproj.GenerateResource.cache
+D:\KERJAAN\C#\FIXFLASH\ToolsFLash\ToolsFLash\obj\x64\Release\ToolsFLash.csproj.CoreCompileInputs.cache
+D:\KERJAAN\C#\FIXFLASH\ToolsFLash\ToolsFLash\obj\x64\Release\ToolsFLash.exe
+D:\KERJAAN\C#\FIXFLASH\ToolsFLash\ToolsFLash\obj\x64\Release\ToolsFLash.pdb
